@@ -1,0 +1,6 @@
+{
+  "name": "Kinetic Momentum",
+  "description": "Tactile productivity and momentum tracker designed for driven everyday achievers with gamified streaks, focus timer, and visual completion loops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
